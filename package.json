@@ -1,0 +1,62 @@
+{
+  "name": "smart-winter-village",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "EXPO_NO_CLIENT_ENV_VARS=1 EXPO_TV=1 expo start",
+    "android": "EXPO_NO_CLIENT_ENV_VARS=1 EXPO_TV=1 expo run:android",
+    "ios": "EXPO_NO_CLIENT_ENV_VARS=1 EXPO_TV=1 expo run:ios",
+    "web": "EXPO_NO_CLIENT_ENV_VARS=1 expo start --web",
+    "build:web": "expo export -p web",
+    "test:types": "tsc",
+    "prebuild": "EXPO_TV=1 expo prebuild --clean"
+  },
+  "dependencies": {
+    "@bam.tech/react-native-keyevent-expo-config-plugin": "^1.0.52",
+    "@emotion/native": "^11.11.0",
+    "@emotion/react": "^11.11.3",
+    "@expo/metro-runtime": "~3.2.1",
+    "@expo/vector-icons": "^14.0.4",
+    "@react-native-picker/picker": "^2.11.0",
+    "@react-native-tvos/config-tv": "^0.1.1",
+    "@react-navigation/native": "^6.1.9",
+    "@react-navigation/native-stack": "^6.9.17",
+    "@types/jest": "^29.5.12",
+    "@types/react-test-renderer": "^18.0.7",
+    "babel-jest": "^29.7.0",
+    "expo": "~51.0.9",
+    "expo-linear-gradient": "^14.0.2",
+    "expo-router": "^4.0.19",
+    "expo-status-bar": "~1.12.1",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "jest-watch-typeahead": "^2.2.2",
+    "lucide-react-native": "^0.335.0",
+    "react": "18.2.0",
+    "react-native": "npm:react-native-tvos@0.74.1-0",
+    "react-native-keyevent": "^0.3.2",
+    "react-native-safe-area-context": "^5.3.0",
+    "react-native-screens": "3.31.1",
+    "react-native-svg": "15.2.0",
+    "react-native-web": "~0.19.10",
+    "react-test-renderer": "^18.2.0",
+    "react-tv-space-navigation": "^5.1.1",
+    "typescript": "^5.6.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.0",
+    "@react-navigation/bottom-tabs": "^6.5.11",
+    "babel-plugin-module-resolver": "^5.0.0",
+    "react-dom": "18.2.0",
+    "react-native-modal": "^13.0.1",
+    "react-native-web": "^0.19.6"
+  },
+  "private": true,
+  "expo": {
+    "install": {
+      "exclude": [
+        "react-native"
+      ]
+    }
+  }
+}

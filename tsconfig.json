@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "paths": {
+    }
+  },
+  "include": [
+    "../example/src/**/*"
+  ],
+  "extends": "./tsconfig.base"
+}
