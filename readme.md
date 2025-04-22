@@ -13,11 +13,16 @@ This is a React Native/Expo application designed primarily for TV platforms. It 
 
 ## Features
 
--   **Mood-Based Music Generation:** Select a vibe (Fun, Energetic, Romantic, Calm) to generate AI-powered music via a backend API. (See `src/pages/VibeSetting.tsx`)
--   **Weather Display:** Fetches and displays current weather information. (See `src/pages/Home.tsx`)
+-   **Weather Display:** Fetches and displays current weather information. 
+-   **Mood-Based Music Generation:** Select a vibe (Fun, Energetic, Romantic, Calm) to generate AI-powered music via a backend API.  
+-   **Frozen Path Monitoring:** Displays real-time path temperature and ice warnings from an API .
+-   **Aurora Forecast:** Shows Aurora Borealis forecast details including KP index, visibility, and viewing tips.
+-   **Guest Service Requests:** Allows users to request services (Room Service, Housekeeping, Concierge, Maintenance), view existing requests, and submit new ones via an API.
+-   **Property Information:** Presents a detailed list of property amenities grouped by category in an accordion interface.
 -   **TV Optimized UI:** Built with React Native and Expo, suitable for TV displays.
 -   **Audio Visualization:** Includes a simple visualization component when music is playing.
 -   **API Integration:** Connects to a backend service for data.
+
 
 ## Prerequisites
 
