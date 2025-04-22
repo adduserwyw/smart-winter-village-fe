@@ -63,7 +63,6 @@ export const Home = () => {
       }
 
       const data = await response.json();
-      console.log("Weather API Response:", data);
       setWeatherData(data.weather || data); // Adjust based on actual API structure
       return data;
     } catch (err) {
