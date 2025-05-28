@@ -2,6 +2,7 @@
 
 This is a React Native/Expo application designed primarily for TV platforms. It allows users to interact with features like mood-based music generation and potentially weather information, connecting to a backend API for dynamic content.
 
+- [Preview](#preview)
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
