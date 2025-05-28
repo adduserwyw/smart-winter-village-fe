@@ -13,10 +13,12 @@ This is a React Native/Expo application designed primarily for TV platforms. It 
 - [Contact](#contact)
 
 ## Preview
-<img width="512" alt="Screenshot 2025-04-22 at 11 01 52" src="https://github.com/user-attachments/assets/0a28b1a8-212d-425f-a7d5-dab86fee8939" />
-<img width="512" alt="Screenshot 2025-04-22 at 11 01 59" src="https://github.com/user-attachments/assets/af8527d7-03f3-4817-a95d-378b45935fef" />
-<img width="512" alt="Screenshot 2025-04-22 at 11 02 29" src="https://github.com/user-attachments/assets/fcf7a020-f690-4842-ab2e-e3d7e704f783" />
-<img width="512" alt="Screenshot 2025-04-22 at 11 02 36" src="https://github.com/user-attachments/assets/07a61e1f-1ceb-4b01-8028-5faed8db6c07" />
+<img width="512" alt="main page" src="https://github.com/user-attachments/assets/7dc52769-d9f2-4f94-81a4-444b16fba173" />
+<img width="512" alt="aurora forecast" src="https://github.com/user-attachments/assets/f118b855-c75b-4242-9577-9fe93a34682d" />
+<img width="512" alt="main page" src="https://github.com/user-attachments/assets/0a28b1a8-212d-425f-a7d5-dab86fee8939" />
+<img width="512" alt="vibe settings" src="https://github.com/user-attachments/assets/af8527d7-03f3-4817-a95d-378b45935fef" />
+<img width="512" alt="info" src="https://github.com/user-attachments/assets/fcf7a020-f690-4842-ab2e-e3d7e704f783" />
+<img width="512" alt="guest services" src="https://github.com/user-attachments/assets/07a61e1f-1ceb-4b01-8028-5faed8db6c07" />
 
 
 ## Features
